@@ -1,4 +1,5 @@
 ### привет, я — nowerty.
+<div align="left"><img alt="uwu"src="https://discord.c99.nl/widget/theme-1/887303819300577291.png"></div>
 
 ## Мои проекты:
 
