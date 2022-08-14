@@ -9,7 +9,7 @@
 
 ## Награды Github
 
-<div align="left"><img src="https://github-profile-trophy.vercel.app/?username=Anild3v&theme=dracula&count_private=true"></div>
+<div align="left"><img src="https://github-profile-trophy.vercel.app/?username=Anild3v"></div>
 
 ## Полезные ссылки, и инвайты
 
