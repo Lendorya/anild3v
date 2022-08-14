@@ -8,9 +8,3 @@ dev
 1. [В разработке...](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Полезные ссылки, и инвайты
-{{DiscordIntegrator
-| id = 789186448364273727
-| theme = dark
-| width = 300px
-| height = 500px
-}}
