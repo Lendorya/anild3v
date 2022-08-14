@@ -9,3 +9,9 @@
 ## Полезные ссылки, и инвайты
 
 0. [Discord Developer Portal](https://discord.dev)
+1. <script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
+  new Crate({
+    server: '789186448364273727',
+    channel: '789186449470783488'
+  })
+</script>
