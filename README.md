@@ -9,7 +9,8 @@
 
 ## Награды Github
 
-<div align="left"><img src="https://github-profile-trophy.vercel.app/?username=Anild3v&theme=dracula"></div>
+<div align="left"><img src="https://github-profile-trophy.vercel.app/?username=Anild3v&theme=dracula"></div> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anild3v&show_icons=true&hide_border=true&theme=tokyonight" /> </td>
 
 ## Полезные ссылки, и инвайты
 
@@ -22,7 +23,6 @@
 <table width="100%" align="left">
   <tr>
     <td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Whirl21&show_icons=true&hide_border=true&theme=tokyonight" /> </td>
  <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anild3v&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>
   </tr>
  <table>
