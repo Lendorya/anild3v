@@ -1,6 +1,5 @@
 ### привет, я — [Anil](https://discord.com/users/887303819300577291).
 <div align="left"><img alt="uwu"src="https://discord.c99.nl/widget/theme-4/887303819300577291.png"></div>
-dev
 
 ## Мои проекты
 
