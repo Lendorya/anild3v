@@ -11,8 +11,7 @@
 
 ## Мои проекты
 
-0. [Открытый код dotbot](https://github.com/nowertydev/opendot);
-1. [В разработке...](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+0. [В разработке...](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Статистика Github
 
