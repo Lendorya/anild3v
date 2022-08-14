@@ -7,6 +7,10 @@
 0. [Открытый код dotbot](https://github.com/nowertydev/opendot);
 1. [В разработке...](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
+## Награды Github
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Anild3v&theme=dracula&count_private=true"></div>
+
 ## Полезные ссылки, и инвайты
 
 0. [Discord Developer Portal](https://discord.dev)
