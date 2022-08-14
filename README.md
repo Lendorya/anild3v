@@ -1,5 +1,6 @@
 ### привет, я — [Anil](https://discord.com/users/887303819300577291).
 <div align="left"><img alt="uwu"src="https://discord.c99.nl/widget/theme-4/887303819300577291.png"></div>
+dev
 
 ## Мои проекты
 
@@ -7,4 +8,9 @@
 1. [В разработке...](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Полезные ссылки, и инвайты
-0. https://discord.gg/DWQJmYCYpT
+{{DiscordIntegrator
+| id = 789186448364273727
+| theme = dark
+| width = 300px
+| height = 500px
+}}
