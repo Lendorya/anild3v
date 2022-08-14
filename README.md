@@ -16,15 +16,9 @@
   </tr>
  <table>
 
-   
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anild3v&show_icons=true&hide_border=true&theme=tokyonight" /> </td>
    
    
 ## Полезные ссылки, и инвайты
 
 0. [Discord Developer Portal](https://discord.dev)
-
-## Языки и т.д.
-
-<div align="left"><img src="https://github-profile-trophy.vercel.app/?username=Whirl21&theme=dracula&count_private=true"></div>
-   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anild3v&show_icons=true&hide_border=true&theme=tokyonight" /> </td>
