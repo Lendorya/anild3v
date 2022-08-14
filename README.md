@@ -1,7 +1,6 @@
 ### привет, я — [Anil](https://discord.com/users/887303819300577291).
 <div align="left"><img alt="uwu"src="https://discord.c99.nl/widget/theme-4/887303819300577291.png"></div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anild3v&label=Profile%20views&color=767f8b&style=flat" alt="anild3v" /> </p> 
-<p align="right">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anild3v&label=Profile%20views&color=767f8b&style=flat" alt="anild3v" /> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/users/887303819300577291" target="_blank"><img alt="Discord" title="Тык" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
