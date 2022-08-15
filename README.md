@@ -1,4 +1,4 @@
-### привет, я — [Anil](https://discord.com/users/887303819300577291).
+## привет, я — [Anil](https://discord.com/users/887303819300577291).
 <a href="https://discord.com/users/887303819300577291">
    <img src="https://lanyard.cnrad.dev/api/887303819300577291" align="left" />
 </a>
@@ -7,13 +7,7 @@
 <a href="https://discord.com/users/887303819300577291" target="_blank"><img alt="Discord" title="Тык" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-
 </p>
-
-
-## Мои проекты
-
-0. [В разработке...](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Статистика Github
 
