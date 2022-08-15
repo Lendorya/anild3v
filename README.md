@@ -1,6 +1,6 @@
 ### привет, я — [Anil](https://discord.com/users/887303819300577291).
 <a href="https://discord.com/users/887303819300577291">
-   <img src="https://lanyard-profile-readme.vercel.app/api/887303819300577291?hideTimestamp=true&idleMessage=Mostly%20Что написать?" align="right" />
+   <img src="https://lanyard.cnrad.dev/api/887303819300577291" align="right" />
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anild3v&label=Profile%20views&color=767f8b&style=flat" alt="anild3v" /> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
