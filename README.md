@@ -8,4 +8,4 @@
    
 ## Полезные ссылки, и инвайты
 
-0. [Discord Developer Portal](https://discord.dev)
+# 0. [Discord Developer Portal](https://discord.dev)
