@@ -8,16 +8,6 @@
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
-
-## Статистика Github
-
-<table width="100%" align="center">
-  <tr>
-    <td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anild3v&show_icons=true&hide_border=true&theme=tokyonight" /> </td>
- <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anild3v&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>
-  </tr>
- <table>
    
 ## Полезные ссылки, и инвайты
 
