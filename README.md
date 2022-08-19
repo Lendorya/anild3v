@@ -12,7 +12,4 @@ Currently i'm writing something on
   <img src="https://github-readme-stats.vercel.app/api?username=anild3v&theme=onedark&count_private=true&custom_title=Github%20All%20Time%20Stats&show_icons=true" />
 </a>
 
-### Chill Room
-<a href="https://discord.gg/DWQJmYCYpT">
-<iframe src="https://discord.com/widget?id=789186448364273727&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-</a>
+### [Chill Room](https://discord.gg/DWQJmYCYpT)
