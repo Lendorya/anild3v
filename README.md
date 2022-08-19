@@ -2,7 +2,7 @@
 
 Currently i'm writing something on
 
-<br><img alt="ts" src="https://img.shields.io/badge/JavaScript-f0db4f?&style=for-the-badge&logo=JavaScript&logoColor=323330" />
+<br><img alt="ts" src="https://img.shields.io/badge/JavaScript-f0db4f?&style=for-the-badge&logo=JavaScript&logoColor=323330" using <img alt="Replit" src="https://img.shields.io/badge/Replit-007ACC?&style=for-the-badge&logo=Replit&logoColor=white"/>
 
 <br>Using
 
