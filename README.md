@@ -3,8 +3,10 @@
 Currently i'm writing something on
 
 <br><img alt="ts" src="https://img.shields.io/badge/JavaScript-f0db4f?&style=for-the-badge&logo=JavaScript&logoColor=323330" />
+
 <br>Using
-<br><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
+
+<br><img alt="Replit" src="https://img.shields.io/badge/Replit-007ACC?&style=for-the-badge&logo=Replit&logoColor=white" />
 
 ### Some stats?
 <a href="https://github.com/san4ern">
