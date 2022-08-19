@@ -13,4 +13,6 @@ Currently i'm writing something on
 </a>
 
 ### Chill Room
-<iframe src="https://discord.com/widget?id=789186448364273727&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<a href="https://discord.gg/DWQJmYCYpT">
+<img src="https://discord.com/widget?id=789186448364273727&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts" />
+</a>
