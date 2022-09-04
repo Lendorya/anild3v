@@ -1,6 +1,4 @@
-### Hi, Im Anil. There some information about me
-
-# I can write something on this
+## I can write something on this
 
 <p align="left">
   <a href="https://skillicons.dev">
